@@ -1,0 +1,20 @@
+{
+  "name": "sw106",
+  "version": "1.0.0",
+  "description": "first video lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leventbaha/SW106.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leventbaha/SW106/issues"
+  },
+  "homepage": "https://github.com/leventbaha/SW106#readme"
+}
