@@ -6,3 +6,5 @@ class Person {
         this.likes = []
     }
 }
+
+const eli = new Person('eli', 34)
